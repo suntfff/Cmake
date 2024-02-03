@@ -1,11 +1,7 @@
-﻿#include <iostream>
-#include <string>
-#include <fstream>
+﻿#include <fstream>
 #include <string>
 #include <vector>
-#include <stdlib.h>
-#include <ctime>
-#include "func.hpp"
+#include <func.hpp>
 int main()
 {
 	std::vector<std::string>  v;
