@@ -5,7 +5,7 @@
 #include <vector>
 #include <stdlib.h>
 #include <ctime>
-#include "func.hpp"
+#include <func.hpp>
 namespace func {
 	void number(std::ifstream& in, std::ofstream& out, std::vector<std::string> v) {
 		while (!in.eof()) {
